@@ -1,0 +1,12 @@
+C:\TTRC\Repository\TTRC\accounts-service\src\main\java\com\ttrc\accounts\exception\ErrorDetails.java
+C:\TTRC\Repository\TTRC\accounts-service\src\main\java\com\ttrc\accounts\exception\GlobalExceptionHandler.java
+C:\TTRC\Repository\TTRC\accounts-service\src\main\java\com\ttrc\accounts\serviceImpl\AccountServiceImpl.java
+C:\TTRC\Repository\TTRC\accounts-service\src\main\java\com\ttrc\accounts\controller\AccountController.java
+C:\TTRC\Repository\TTRC\accounts-service\src\main\java\com\ttrc\accounts\entity\Account.java
+C:\TTRC\Repository\TTRC\accounts-service\src\main\java\com\ttrc\accounts\service\AccountService.java
+C:\TTRC\Repository\TTRC\accounts-service\src\main\java\com\ttrc\accounts\AccountsServiceApplication.java
+C:\TTRC\Repository\TTRC\accounts-service\src\main\java\com\ttrc\accounts\mapper\AccountMapper.java
+C:\TTRC\Repository\TTRC\accounts-service\src\main\java\com\ttrc\accounts\dto\AccountDto.java
+C:\TTRC\Repository\TTRC\accounts-service\src\main\java\com\ttrc\accounts\exception\ResourceNotFoundException.java
+C:\TTRC\Repository\TTRC\accounts-service\src\main\java\com\ttrc\accounts\mapper\AccountAutoMapper.java
+C:\TTRC\Repository\TTRC\accounts-service\src\main\java\com\ttrc\accounts\repository\AccountRepository.java
